@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/logo.svg" alt="YOKOSO" width="260" />
+  <img src="ferion/favicon.png" alt="FERION" width="260" />
 </p>
 
 <h1 align="center">FERION</h1>
