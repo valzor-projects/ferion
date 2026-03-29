@@ -166,7 +166,7 @@ ferion/
 
 ## Contributing
 
-Contributions are welcome — whether you're fixing a bug, improving accessibility, or adding a feature that makes sense for a portfolio like this.
+Contributions are welcome whether you're fixing a bug, improving accessibility, or adding a feature that makes sense for a portfolio like this.
 
 ```bash
 # Fork and clone
