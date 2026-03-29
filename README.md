@@ -5,7 +5,7 @@
 <h1 align="center">FERION</h1>
 
 <p align="center">
-  A premium personal portfolio built for polymaths animate your story, not just your stack.
+  Most portfolios are just a list of skills and a contact form. This one actually tells a story.
 </p>
 
 <p align="center">
@@ -28,11 +28,8 @@
 
 ## What is ferion?
 
-**ferion** is the portfolio site for [Ujjwal Kumar Rai (YOKOSO)](https://www.linkedin.com/in/u-k-r/) — a polymath who refused to pick just one lane.
-
-It's not a typical "here are my projects" site. It's a living document of a mind that spans technology, gaming, language & culture, psychology, content creation, sports, and entertainment — each domain rendered as a large-type statement with personality.
-
-Built with **React 19**, **Vite 8**, and **Tailwind CSS 4**, it's designed to be fast, visually striking, and easy to extend.
+I got tired of the standard "here are my projects, here are my skills, here is my LinkedIn" format. Because that's not who I am. I'm not one thing. Never have been. Technology, gaming, psychology, content creation, sports, language, culture, entertainment I live in all of it. Picking one felt like lying. So I built **ferion**. A portfolio that actually reflects how my brain works. Every domain I operate in gets its own large type statement. With personality. Not bullet points. It's not a project showcase. It's a living document of someone who refused to specialize. 
+Built on React 19, Vite 8, and Tailwind CSS 4. Fast, clean, and easy to keep building on. Because a portfolio for a polymath should never really be finished.
 
 ---
 
@@ -206,4 +203,4 @@ This project follows the [Contributor Covenant](https://www.contributor-covenant
 
 MIT © [Ujjwal Kumar Rai](https://www.linkedin.com/in/u-k-r/)
 
-See [LICENSE](LICENSE) for details.
+See [MIT LICENSE](LICENSE) for details.
