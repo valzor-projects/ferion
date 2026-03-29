@@ -379,7 +379,7 @@ export default function App() {
             --hero-glow: radial-gradient(circle at 50% 40%, rgba(255, 0, 85, 0.15) 0%, rgba(10, 10, 10, 1) 50%, rgba(0, 0, 0, 1) 100%);
           }
 
-          /* Premium Subtle Glitch Animation */
+          /* Glitch Animation */
           .glitch-premium {
             animation: subtle-glitch 0.25s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
           }
@@ -413,7 +413,7 @@ export default function App() {
           <nav className="relative w-full max-w-[1440px] mx-auto px-6 py-4 lg:px-12 flex items-center justify-between">
             {/* Logo */}
             <div className="flex items-center gap-2 cursor-pointer group z-50" onClick={(e) => scrollToSection(e, 'HOME')}>
-              <span className="text-sm font-bold tracking-widest uppercase mt-1 text-[var(--text-primary)]">YOKOSO</span>
+              <span className="text-sm font-bold tracking-widest uppercase mt-1 text-[var(--text-primary)]">FERION</span>
             </div>
 
             {/* Desktop Navigation Links */}
