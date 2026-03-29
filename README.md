@@ -66,14 +66,22 @@ Open [http://localhost:5173](http://localhost:5173) and you're live.
 
 ## Why ferion?
 
-Most portfolio templates are built for one persona: a developer with a handful of side projects and a skills section. **ferion is built differently.**
+Most portfolio templates are built for one type of person. A developer. A few side projects. A skills section. A contact form.
 
-It's for people who are hard to categorize who want their portfolio to communicate *depth of curiosity* before it communicates a job title. The layout is bold, the typography is expressive, and the writing is honest.
+**ferion is built for everyone else.**
+
+---
+
+The people who are hard to put in a box. Who have too many interests to list. Who want their portfolio to show *how they think* before it shows what tools they know.
+
+The layout is bold. The typography hits. The writing is actually honest.
 
 > *"Everyone around me had a plan. I couldn't do it. Not because I was lazy. The opposite, actually. I wanted to do everything."*
 > — Ujjwal Kumar Rai
 
-If that sentence resonates with you, ferion might be the right starting point for your own portfolio.
+If you read that and felt something, ferion was probably built for you too.
+
+Not a template for a job title. A starting point for people who never wanted just one.
 
 ---
 
