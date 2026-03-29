@@ -68,7 +68,7 @@ Open [http://localhost:5173](http://localhost:5173) and you're live.
 
 Most portfolio templates are built for one persona: a developer with a handful of side projects and a skills section. **ferion is built differently.**
 
-It's for people who are hard to categorize — who want their portfolio to communicate *depth of curiosity* before it communicates a job title. The layout is bold, the typography is expressive, and the writing is honest.
+It's for people who are hard to categorize who want their portfolio to communicate *depth of curiosity* before it communicates a job title. The layout is bold, the typography is expressive, and the writing is honest.
 
 > *"Everyone around me had a plan. I couldn't do it. Not because I was lazy. The opposite, actually. I wanted to do everything."*
 > — Ujjwal Kumar Rai
